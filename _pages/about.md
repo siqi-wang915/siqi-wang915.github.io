@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My name is Siqi Wang, and welcome to my personal website. I am currently a Ph. D. candidate. My major is Aerospace Science and Technology, with a focus on impact dynamics in the aerospace field and mechanical metamaterials. I earned a Bachelor of Engineering in Engineering Mechanics from Hunan University (2018–2022) and have since graduated with a Master's degree from the School of Aerospace Engineering at Xiamen University (2022–2025), under the supervision of Professor Baoqiang Zhang at the Centre for Advanced Machine Design and Data Analytics (CAMDDA). I also served as a research assistant at the Aero Engine Academy of China (2023–2024).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am majoring in solid mechanics and have rich experience in numerical simulation and vibration testing. I am devoted to using mechanical metamaterials in aerospace structures to improve their impact resistance. I will pursue research at the intersection of artificial intelligence (AI) and solid mechanics in the future.
 
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 I receive my master's degree from Xiamen University!
 - *2025.05*: &nbsp;🎉🎉 I Complete the paper about TPMS modeling method!
 - *2025.04*: &nbsp;🎉🎉 The paper about High-cycle fatigue life prediction from my friend Xiaodong Zhang is accepted by Reliability Engineering & System Safety!
-- *2025.04*: &nbsp;🎉🎉 I finish my IELST test!
+- *2025.04*: &nbsp;🎉🎉 I finish my first IELST test!
 - *2025.03*: &nbsp;🎉🎉 The paper about TPMS structure and bird strike is accepted by Aerospace science and technology!
 - *2024.12*: &nbsp;🎉🎉 I attended the Fujian-Jiangxi Provincial Academic Conference and have an oral presentation!
 - *2024.10*: &nbsp;🎉🎉 I Complete the paper about TPMS structure and bird strike and submit to Aerospace science and technology!
@@ -111,8 +111,6 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
