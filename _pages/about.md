@@ -37,22 +37,10 @@ minimal surface structure (TPMS) and bird strike is accepted by Aerospace scienc
 - *2024.05*: &nbsp;🎉🎉 My paper is accepted by aerospace!
 - *2024.04*: &nbsp;🎉🎉 I complete the paper about bird strike and submit to Aerospace!
 - *2023.10*: &nbsp;🎉🎉 I join Aero Engine Academy of China as a research assistant for CAE software development.
-- *2022.09*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (CAMDDA) and collaborate with Prof. Baoqiang Zhang.
+- *2022.09*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (CAMDDA) and supervised by Prof. Baoqiang Zhang.
 - *2022.06*: &nbsp;🎉🎉 I receive my bachelor's degree from Hunan University!
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An Improved Finite Element Modeling Method for Triply Periodic Minimal Surface Structures Based on Element Size and Minimum Jacobian](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Siqi Wang**, Chuangyu Jiang, Xiaodong Zhang, Yilong Zhang, Baoqiang Zhang, Huageng Luo
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -108,6 +96,20 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 [Multiple-Bird-Strike Probability Model and Dynamic Response of Engine Fan Blades](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Siqi Wang**, Jinhui Li, Haidong Lin, Zhenhong Deng, Baoqiang Zhang, Huageng Luo
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+# 📝 Under Review
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Improved Finite Element Modeling Method for Triply Periodic Minimal Surface Structures Based on Element Size and Minimum Jacobian](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Siqi Wang**, Chuangyu Jiang, Xiaodong Zhang, Yilong Zhang, Baoqiang Zhang, Huageng Luo
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
