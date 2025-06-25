@@ -62,7 +62,7 @@ Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo
 **Siqi Wang**, Chuangyu Jiang, Cunfu Wang, Baoqiang Zhang, Huageng Luo, Wujun Feng
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We propose using TPMS structures as lightweight fillers in wide-chord hollow fan blades to enhance bird strike resistance. A multi-level framework—spanning material, element, and component levels—demonstrates the feasibility and effectiveness of this approach, highlighting its strong potential in aero-engine applications. 
 </div>
 </div>
 
@@ -74,7 +74,7 @@ Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo
 Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, WUjun Feng, Haidong Lin, **Siqi Wang**, Jinhui Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We propose a superelement-based reduction method to efficiently analyze the dynamic behavior of aero-engine casings with complex connections. The reduced model significantly improves computational efficiency while maintaining high accuracy, as validated by simulation and experiments.
 </div>
 </div>
 
@@ -86,7 +86,7 @@ Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, WUjun Feng, Haidong Lin, **S
 Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wujun Feng, Baoqiang Zhang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We develop an improved Bayesian model updating method for stochastic dynamic models using frequency response functions (FRFs). By introducing a novel NHBFT-PCA-based validation metric, our approach enhances both traditional and approximate Bayesian methods. Numerical and experimental results show improved accuracy and efficiency over conventional techniques.
 </div>
 </div>
 
@@ -98,7 +98,7 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 **Siqi Wang**, Jinhui Li, Haidong Lin, Zhenhong Deng, Baoqiang Zhang, Huageng Luo
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We investigate the effects of multiple bird strikes on engine fan blades by introducing a probabilistic impact model and using an implicit–explicit simulation method. 
 </div>
 </div>
 
