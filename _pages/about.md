@@ -23,19 +23,21 @@ I am majoring in solid mechanics and have rich experience in numerical simulatio
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 I receive my master's degree from Xiamen University!
-- *2025.05*: &nbsp;🎉🎉 I Complete the paper about TPMS modeling method!
+- *2025.06*: &nbsp;🎉🎉 I receive my master's degree from School of Aerospace Engineering, Xiamen University!
+- *2025.05*: &nbsp;🎉🎉 I complete the paper about triply periodic
+minimal surface structure (TPMS) modeling method!
 - *2025.04*: &nbsp;🎉🎉 The paper about High-cycle fatigue life prediction from my friend Xiaodong Zhang is accepted by Reliability Engineering & System Safety!
-- *2025.04*: &nbsp;🎉🎉 I finish my first IELST test!
-- *2025.03*: &nbsp;🎉🎉 The paper about TPMS structure and bird strike is accepted by Aerospace science and technology!
+- *2025.04*: &nbsp;🎉🎉 I finish my first IELST test in Xiamen University Siming Campus!
+- *2025.03*: &nbsp;🎉🎉 The paper about triply periodic
+minimal surface structure (TPMS) and bird strike is accepted by Aerospace science and technology!
 - *2024.12*: &nbsp;🎉🎉 I attended the Fujian-Jiangxi Provincial Academic Conference and have an oral presentation!
-- *2024.10*: &nbsp;🎉🎉 I Complete the paper about TPMS structure and bird strike and submit to Aerospace science and technology!
+- *2024.10*: &nbsp;🎉🎉 I complete the paper about TPMS structure and bird strike and submit to Aerospace science and technology!
 - *2024.08*: &nbsp;🎉🎉 The paper about super-element condensation method from my friend Zhe Yang is accepted by Journal of Mechanical Strength (In Chinese)!
 - *2024.06*: &nbsp;🎉🎉 The paper about model updating from my friend Jinhui Li is accepted by Mathematics!
 - *2024.05*: &nbsp;🎉🎉 My paper is accepted by aerospace!
-- *2024.04*: &nbsp;🎉🎉 I Complete the paper about bird strike and submit to Aerospace!
+- *2024.04*: &nbsp;🎉🎉 I complete the paper about bird strike and submit to Aerospace!
 - *2023.10*: &nbsp;🎉🎉 I join Aero Engine Academy of China as a research assistant for CAE software development.
-- *2022.09*: &nbsp;🎉🎉 I join the CAMDDA team and collaborate with Prof. Baoqiang Zhang.
+- *2022.09*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (CAMDDA) and collaborate with Prof. Baoqiang Zhang.
 - *2022.06*: &nbsp;🎉🎉 I receive my bachelor's degree from Hunan University!
 
 # 📝 Publications 
