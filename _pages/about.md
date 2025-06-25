@@ -119,13 +119,25 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Prediction of Blade Vibration Response with Uncertainty Propagation Using Physics-Informed Neural Networks and Physics-Informed Gaussian Process Regression](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+Xiaodong Zhang, Daobo Sun, Dengyu Wu, **Siqi Wang**, Ting Liu, Huageng Luo, Baoqiang Zhang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a vibration response prediction model for turbine engine blades by integrating Physics-Informed Neural Networks (PINN) with Physics-Informed Gaussian Process Regression (PIGPR). The model embeds frequency-domain physical properties into PINN and uses it as the mean function in Gaussian Process Regression (GPR), enabling both data-driven prediction and uncertainty analysis.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2022.09 - 2025.06*, Master in School of Aerospace Engineering, Xiamen University (XMU), Xiamen, China
-- *2018.09 - 2022.06*, Bachelor from College of Mechanical and Vehicle Engineering, Hunan University (HNU), Changsha, China
+- *Sep. 2022 – Jun. 2025* , Master’s Degree in Aerospace Engineering, School of Aerospace Engineering, Xiamen University (XMU), Xiamen, China
+- *Sep. 2018 – Jun. 2022*, Bachelor’s Degree in Mechanical Engineering, College of Mechanical and Vehicle Engineering, Hunan University (HNU), Changsha, China
 
 
 # 💬 Invited Talks
