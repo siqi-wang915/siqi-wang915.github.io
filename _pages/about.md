@@ -24,8 +24,11 @@ I am majoring in solid mechanics and have rich experience in numerical simulatio
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 I receive my master's degree from School of Aerospace Engineering, Xiamen University!
+- *2025.06*: &nbsp;🎉🎉 My friend Xiaodong Zhang complete the paper about data-driven vibration response prediction for blades and submit it to Reliability Engineering & System Safety!
+- *2025.05*: &nbsp;🎉🎉 I complete my master's thesis defense and thank all the committee members for their valuable comments.
 - *2025.05*: &nbsp;🎉🎉 I complete the paper about triply periodic
 minimal surface structure (TPMS) modeling method!
+- *2025.04*: &nbsp;🎉🎉 I receive the review reports for my master's thesis, and all the reviewers give me scores above 90!
 - *2025.04*: &nbsp;🎉🎉 The paper about High-cycle fatigue life prediction from my friend Xiaodong Zhang is accepted by Reliability Engineering & System Safety!
 - *2025.04*: &nbsp;🎉🎉 I finish my first IELST test in Xiamen University Siming Campus!
 - *2025.03*: &nbsp;🎉🎉 The paper about triply periodic
@@ -34,8 +37,8 @@ minimal surface structure (TPMS) and bird strike is accepted by Aerospace scienc
 - *2024.10*: &nbsp;🎉🎉 I complete the paper about TPMS structure and bird strike and submit to Aerospace science and technology!
 - *2024.08*: &nbsp;🎉🎉 The paper about super-element condensation method from my friend Zhe Yang is accepted by Journal of Mechanical Strength (In Chinese)!
 - *2024.06*: &nbsp;🎉🎉 The paper about model updating from my friend Jinhui Li is accepted by Mathematics!
-- *2024.05*: &nbsp;🎉🎉 My paper is accepted by aerospace!
-- *2024.04*: &nbsp;🎉🎉 I complete the paper about bird strike and submit to Aerospace!
+- *2024.05*: &nbsp;🎉🎉 My paper about multiple-bird-strike is accepted by Aerospace!
+- *2024.04*: &nbsp;🎉🎉 I complete the paper about multiple-bird-strike and submit to Aerospace!
 - *2023.10*: &nbsp;🎉🎉 I join Aero Engine Academy of China as a research assistant for CAE software development.
 - *2022.09*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (CAMDDA) and supervised by Prof. Baoqiang Zhang.
 - *2022.06*: &nbsp;🎉🎉 I receive my bachelor's degree from Hunan University!
@@ -112,7 +115,7 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 **Siqi Wang**, Chuangyu Jiang, Xiaodong Zhang, Yilong Zhang, Baoqiang Zhang, Huageng Luo
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We propose a two-parameter voxel modeling method for TPMS structures, jointly controlling element size and minimum Jacobian. This approach improves mesh convergence, accuracy, and efficiency compared to traditional methods, and demonstrates strong applicability in graded TPMS analysis.
 </div>
 </div>
 
