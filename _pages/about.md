@@ -53,7 +53,7 @@ minimal surface structure (TPMS) and bird strike is accepted by Aerospace scienc
 Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo, Baoqiang Zhang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We propose a fatigue life prediction method for Boundary Layer Ingestion (BLI) fan blades under aleatory and epistemic uncertainties with random damage, combining Sparse Polynomial Chaos Expansion–Monte Carlo Simulation (SPCE–MCS), Finite Element Analysis (FEA), and Expectation-Maximization Gaussian Mixture Distribution (EM–GMD).
 </div>
 </div>
 
@@ -74,7 +74,7 @@ Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo
   
 [Research on Super-Element Condensation Method of Aero-Engine Magazine Structure Considering Connections for Dynamics Modeling](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, WUjun Feng, Haidong Lin, **Siqi Wang**, Jinhui Li
+Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **Siqi Wang**, Jinhui Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a superelement-based reduction method to efficiently analyze the dynamic behavior of aero-engine casings with complex connections. The reduced model significantly improves computational efficiency while maintaining high accuracy, as validated by simulation and experiments.
