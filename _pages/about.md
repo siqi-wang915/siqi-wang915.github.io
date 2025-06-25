@@ -33,11 +33,11 @@ minimal surface structure (TPMS) modeling method!
 - *Apr. 2025*: &nbsp;🎉🎉 I finish my first IELST test in Xiamen University Siming Campus!
 - *Mar. 2025*: &nbsp;🎉🎉 The paper about triply periodic
 minimal surface structure (TPMS) and bird strike is accepted by Aerospace science and technology!
-- *Dec. 2024*: &nbsp;🎉🎉 I attended the Fujian-Jiangxi Provincial Academic Conference and have an oral presentation!
+- *Dec. 2024*: &nbsp;🎉🎉 I attended the The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces and have an oral presentation!
 - *Oct. 2024*: &nbsp;🎉🎉 I complete the paper about TPMS structure and bird strike and submit to Aerospace science and technology!
 - *Aug. 2024*: &nbsp;🎉🎉 The paper about super-element condensation method from my friend Zhe Yang is accepted by Journal of Mechanical Strength (In Chinese)!
 - *Jun. 2024*: &nbsp;🎉🎉 The paper about model updating from my friend Jinhui Li is accepted by Mathematics!
-- *May. 2024*: &nbsp;🎉🎉 My paper about multiple-bird-strike is accepted by Aerospace!
+- *May 2024*: &nbsp;🎉🎉 My paper about multiple-bird-strike is accepted by Aerospace!
 - *Apr. 2024*: &nbsp;🎉🎉 I complete the paper about multiple-bird-strike and submit to Aerospace!
 - *Oct. 2023*: &nbsp;🎉🎉 I join Aero Engine Academy of China as a research assistant for CAE software development.
 - *Sep. 2022*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (CAMDDA) and supervised by Prof. Baoqiang Zhang.
@@ -45,7 +45,7 @@ minimal surface structure (TPMS) and bird strike is accepted by Aerospace scienc
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RESS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reliability Engineering & System Safety</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-Cycle Fatigue Life Prediction for Fan Blades Considering Aleatory and Epistemic Uncertainty with Random Damage](https://www.sciencedirect.com/science/article/pii/S095183202500393X)
@@ -57,7 +57,7 @@ Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AST</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aerospace Science and Technology</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bird Strike Resistance Analysis for Engine Fan Blade Filled with Triply Periodic Minimal Surface](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -119,7 +119,7 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RESS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reliability Engineering & System Safety</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prediction of Blade Vibration Response with Uncertainty Propagation Using Physics-Informed Neural Networks and Physics-Informed Gaussian Process Regression](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -142,7 +142,7 @@ Xiaodong Zhang, Daobo Sun, Dengyu Wu, **Siqi Wang**, Ting Liu, Huageng Luo, Baoq
 
 # 💬 Conference
 - *Nov. 2024*, The 2nd National Symposium on Reliability Engineering and Science of Complex Equipment & the 11th National Workshop on Model Verification and Validation, Mianyang, China: only participate
-- *Apr. 2023*, National Symposium on Structural Vibration and Dynamics, Xiamen, China: “Equivalent modeling and impact resistance testing of IWP-filled structures” Oral Presentation
+- *Apr. 2023*, The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces, Putian, China: “Equivalent modeling and impact resistance testing of IWP-filled structures” Oral Presentation
 - *Apr. 2023*, The 15th National Symposium on Structural Vibration and Dynamics & the 3rd National Workshop on Impact and Protective Engineering, Xiamen, China: only participate
 - *Nov. 2022*, The 18th China CAE Annual Conference (CCAC 2022), Xiamen, China: only participate
 
