@@ -23,25 +23,25 @@ I am majoring in solid mechanics and have rich experience in numerical simulatio
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 I receive my master's degree from School of Aerospace Engineering, Xiamen University!
-- *2025.06*: &nbsp;🎉🎉 My friend Xiaodong Zhang complete the paper about data-driven vibration response prediction for blades and submit it to Reliability Engineering & System Safety!
-- *2025.05*: &nbsp;🎉🎉 I complete my master's thesis defense and thank all the committee members for their valuable comments.
-- *2025.05*: &nbsp;🎉🎉 I complete the paper about triply periodic
+- *Jun. 2025*: &nbsp;🎉🎉 I receive my master's degree from School of Aerospace Engineering, Xiamen University!
+- *Jun. 2025*: &nbsp;🎉🎉 My friend Xiaodong Zhang complete the paper about data-driven vibration response prediction for blades and submit it to Reliability Engineering & System Safety!
+- *May 2025*: &nbsp;🎉🎉 I complete my master's thesis defense and thank all the committee members for their valuable comments.
+- *May 2025*: &nbsp;🎉🎉 I complete the paper about triply periodic
 minimal surface structure (TPMS) modeling method!
-- *2025.04*: &nbsp;🎉🎉 I receive the review reports for my master's thesis, and all the reviewers give me scores above 90!
-- *2025.04*: &nbsp;🎉🎉 The paper about High-cycle fatigue life prediction from my friend Xiaodong Zhang is accepted by Reliability Engineering & System Safety!
-- *2025.04*: &nbsp;🎉🎉 I finish my first IELST test in Xiamen University Siming Campus!
-- *2025.03*: &nbsp;🎉🎉 The paper about triply periodic
+- *Apr. 2025*: &nbsp;🎉🎉 I receive the review reports for my master's thesis, and all the reviewers give me scores above 90!
+- *Apr. 2025*: &nbsp;🎉🎉 The paper about High-cycle fatigue life prediction from my friend Xiaodong Zhang is accepted by Reliability Engineering & System Safety!
+- *Apr. 2025*: &nbsp;🎉🎉 I finish my first IELST test in Xiamen University Siming Campus!
+- *Mar. 2025*: &nbsp;🎉🎉 The paper about triply periodic
 minimal surface structure (TPMS) and bird strike is accepted by Aerospace science and technology!
-- *2024.12*: &nbsp;🎉🎉 I attended the Fujian-Jiangxi Provincial Academic Conference and have an oral presentation!
-- *2024.10*: &nbsp;🎉🎉 I complete the paper about TPMS structure and bird strike and submit to Aerospace science and technology!
-- *2024.08*: &nbsp;🎉🎉 The paper about super-element condensation method from my friend Zhe Yang is accepted by Journal of Mechanical Strength (In Chinese)!
-- *2024.06*: &nbsp;🎉🎉 The paper about model updating from my friend Jinhui Li is accepted by Mathematics!
-- *2024.05*: &nbsp;🎉🎉 My paper about multiple-bird-strike is accepted by Aerospace!
-- *2024.04*: &nbsp;🎉🎉 I complete the paper about multiple-bird-strike and submit to Aerospace!
-- *2023.10*: &nbsp;🎉🎉 I join Aero Engine Academy of China as a research assistant for CAE software development.
-- *2022.09*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (CAMDDA) and supervised by Prof. Baoqiang Zhang.
-- *2022.06*: &nbsp;🎉🎉 I receive my bachelor's degree from Hunan University!
+- *Dec. 2024*: &nbsp;🎉🎉 I attended the Fujian-Jiangxi Provincial Academic Conference and have an oral presentation!
+- *Oct. 2024*: &nbsp;🎉🎉 I complete the paper about TPMS structure and bird strike and submit to Aerospace science and technology!
+- *Aug. 2024*: &nbsp;🎉🎉 The paper about super-element condensation method from my friend Zhe Yang is accepted by Journal of Mechanical Strength (In Chinese)!
+- *Jun. 2024*: &nbsp;🎉🎉 The paper about model updating from my friend Jinhui Li is accepted by Mathematics!
+- *May. 2024*: &nbsp;🎉🎉 My paper about multiple-bird-strike is accepted by Aerospace!
+- *Apr. 2024*: &nbsp;🎉🎉 I complete the paper about multiple-bird-strike and submit to Aerospace!
+- *Oct. 2023*: &nbsp;🎉🎉 I join Aero Engine Academy of China as a research assistant for CAE software development.
+- *Sep. 2022*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (CAMDDA) and supervised by Prof. Baoqiang Zhang.
+- *Jun. 2022*: &nbsp;🎉🎉 I receive my bachelor's degree from Hunan University!
 
 # 📝 Publications 
 
@@ -119,7 +119,7 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RESS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prediction of Blade Vibration Response with Uncertainty Propagation Using Physics-Informed Neural Networks and Physics-Informed Gaussian Process Regression](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -136,13 +136,15 @@ Xiaodong Zhang, Daobo Sun, Dengyu Wu, **Siqi Wang**, Ting Liu, Huageng Luo, Baoq
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *Sep. 2022 – Jun. 2025* , Master’s Degree in Aerospace Engineering, School of Aerospace Engineering, Xiamen University (XMU), Xiamen, China
+- *Sep. 2022 – Jun. 2025*, Master’s Degree in Aerospace Science and Technology, School of Aerospace Engineering, Xiamen University (XMU), Xiamen, China
 - *Sep. 2018 – Jun. 2022*, Bachelor’s Degree in Mechanical Engineering, College of Mechanical and Vehicle Engineering, Hunan University (HNU), Changsha, China
 
 
 # 💬 Conference
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *Nov. 2024*, The 2nd National Symposium on Reliability Engineering and Science of Complex Equipment & the 11th National Workshop on Model Verification and Validation, Mianyang, China: only participate
+- *Apr. 2023*, National Symposium on Structural Vibration and Dynamics, Xiamen, China: “Equivalent modeling and impact resistance testing of IWP-filled structures” Oral Presentation
+- *Apr. 2023*, The 15th National Symposium on Structural Vibration and Dynamics & the 3rd National Workshop on Impact and Protective Engineering, Xiamen, China: only participate
+- *Nov. 2022*, The 18th China CAE Annual Conference (CCAC 2022), Xiamen, China: only participate
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
