@@ -24,12 +24,12 @@ I am majoring in solid mechanics and have rich experience in numerical simulatio
 
 # 🔥 News
 - *Jun. 2025*: &nbsp;🎉🎉 I receive my master's degree from School of Aerospace Engineering, Xiamen University!
-- *Jun. 2025*: &nbsp;🎉🎉 My friend Xiaodong Zhang complete the paper about data-driven vibration response prediction for blades and submit it to Reliability Engineering & System Safety!
+- *Jun. 2025*: &nbsp;🎉🎉 My friend <a href="https://www.researchgate.net/profile/Xiaodong-Zhang-92" target="_blank">Xiaodong Zhang</a> complete the paper about data-driven vibration response prediction for blades and submit it to Reliability Engineering & System Safety!
 - *May 2025*: &nbsp;🎉🎉 I complete my master's thesis defense and thank all the committee members for their valuable comments.
 - *May 2025*: &nbsp;🎉🎉 I complete the paper about triply periodic
 minimal surface structure (TPMS) modeling method!
 - *Apr. 2025*: &nbsp;🎉🎉 I receive the review reports for my master's thesis, and all the reviewers give me scores above 90!
-- *Apr. 2025*: &nbsp;🎉🎉 The paper about high-cycle fatigue life prediction from my friend Xiaodong Zhang is accepted by Reliability Engineering & System Safety!
+- *Apr. 2025*: &nbsp;🎉🎉 The paper about high-cycle fatigue life prediction from my friend <a href="https://www.researchgate.net/profile/Xiaodong-Zhang-92" target="_blank">Xiaodong Zhang</a> is accepted by Reliability Engineering & System Safety!
 - *Apr. 2025*: &nbsp;🎉🎉 I finish my first IELST test in Xiamen University Siming Campus!
 - *Mar. 2025*: &nbsp;🎉🎉 The paper about triply periodic
 minimal surface structure (TPMS) and bird strike is accepted by Aerospace science and technology!
@@ -40,7 +40,7 @@ minimal surface structure (TPMS) and bird strike is accepted by Aerospace scienc
 - *May 2024*: &nbsp;🎉🎉 My paper about multiple bird strike is accepted by Aerospace!
 - *Apr. 2024*: &nbsp;🎉🎉 I complete the paper about multiple bird strike and submit to Aerospace!
 - *Oct. 2023*: &nbsp;🎉🎉 I join Aero Engine Academy of China as a research assistant for CAE software development.
-- *Sep. 2022*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (CAMDDA) and supervised by Prof. Baoqiang Zhang.
+- *Sep. 2022*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (<a href="https://www.researchgate.net/lab/CAMDDA-Huageng-Luo" target="_blank">CAMDDA</a>) and supervised by <a href="https://aerospace.xmu.edu.cn/info/2463/48873.htm" target="_blank">Prof. Baoqiang Zhang</a> and <a href="https://aerospace.xmu.edu.cn/info/1623/41443.htm" target="_blank">Prof. Huageng Luo</a>.
 - *Jun. 2022*: &nbsp;🎉🎉 I receive my bachelor's degree from Hunan University!
 
 # 📝 Publications 
