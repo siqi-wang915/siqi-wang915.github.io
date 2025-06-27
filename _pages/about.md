@@ -26,17 +26,18 @@ I am majoring in solid mechanics and have rich experience in numerical simulatio
 - *Jun. 2025*: &nbsp;🎉🎉 I receive my master's degree from School of Aerospace Engineering, Xiamen University!
 - *Jun. 2025*: &nbsp;🎉🎉 My friend <a href="https://www.researchgate.net/profile/Xiaodong-Zhang-92" target="_blank">Xiaodong Zhang</a> complete the paper about data-driven vibration response prediction for blades and submit it to Reliability Engineering & System Safety!
 - *May 2025*: &nbsp;🎉🎉 I complete my master's thesis defense and thank all the committee members for their valuable comments.
-- *May 2025*: &nbsp;🎉🎉 I complete the paper about triply periodic
-minimal surface structure (TPMS) modeling method!
+- *May 2025*: &nbsp;🎉🎉 I complete the paper about <a href="https://arxiv.org/abs/2506.04028" target="_blank">triply periodic
+minimal surface (TPMS) structure  modeling method</a>!
 - *Apr. 2025*: &nbsp;🎉🎉 I receive the review reports for my master's thesis, and all the reviewers give me scores above 90!
-- *Apr. 2025*: &nbsp;🎉🎉 The paper about high-cycle fatigue life prediction from my friend <a href="https://www.researchgate.net/profile/Xiaodong-Zhang-92" target="_blank">Xiaodong Zhang</a> is accepted by Reliability Engineering & System Safety!
+- *Apr. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S095183202500393X" target="_blank">high-cycle fatigue life prediction</a> from my friend <a href="https://www.researchgate.net/profile/Xiaodong-Zhang-92" target="_blank">Xiaodong Zhang</a> is accepted by Reliability Engineering & System Safety!
 - *Apr. 2025*: &nbsp;🎉🎉 I finish my first IELST test in Xiamen University Siming Campus!
-- *Mar. 2025*: &nbsp;🎉🎉 The paper about triply periodic
-minimal surface structure (TPMS) and bird strike is accepted by Aerospace science and technology!
+- *Mar. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804" target="_blank">triply periodic
+minimal surface structure (TPMS) and bird strike</a> is accepted by Aerospace science and technology!
 - *Dec. 2024*: &nbsp;🎉🎉 I attended the The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces and have an oral presentation!
-- *Oct. 2024*: &nbsp;🎉🎉 I complete the paper about TPMS structure and bird strike and submit to Aerospace science and technology!
-- *Aug. 2024*: &nbsp;🎉🎉 The paper about super-element condensation method from my friend Zhe Yang is accepted by Journal of Mechanical Strength (In Chinese)!
-- *Jun. 2024*: &nbsp;🎉🎉 The paper about model updating from my friend Jinhui Li is accepted by Mathematics!
+- *Oct. 2024*: &nbsp;🎉🎉 I complete the paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804" target="_blank">triply periodic
+minimal surface (TPMS) structure and bird strike</a> and submit to Aerospace science and technology!
+- *Aug. 2024*: &nbsp;🎉🎉 The paper about super-element condensation method from my friend <a href="https://www.researchgate.net/scientific-contributions/Zhe-Yang-2285984581" target="_blank">Zhe Yang</a> is accepted by Journal of Mechanical Strength (In Chinese)!
+- *Jun. 2024*: &nbsp;🎉🎉 The paper about model updating from my friend <a href="https://www.researchgate.net/scientific-contributions/Jinhui-Li-2245551287" target="_blank">Jinhui Li</a> is accepted by Mathematics!
 - *May 2024*: &nbsp;🎉🎉 My paper about multiple bird strike is accepted by Aerospace!
 - *Apr. 2024*: &nbsp;🎉🎉 I complete the paper about multiple bird strike and submit to Aerospace!
 - *Oct. 2023*: &nbsp;🎉🎉 I join Aero Engine Academy of China as a research assistant for CAE software development.
