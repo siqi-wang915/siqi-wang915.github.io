@@ -29,7 +29,7 @@ I am majoring in solid mechanics and have rich experience in numerical simulatio
 - *May 2025*: &nbsp;🎉🎉 I complete the paper about triply periodic
 minimal surface structure (TPMS) modeling method!
 - *Apr. 2025*: &nbsp;🎉🎉 I receive the review reports for my master's thesis, and all the reviewers give me scores above 90!
-- *Apr. 2025*: &nbsp;🎉🎉 The paper about High-cycle fatigue life prediction from my friend Xiaodong Zhang is accepted by Reliability Engineering & System Safety!
+- *Apr. 2025*: &nbsp;🎉🎉 The paper about high-cycle fatigue life prediction from my friend Xiaodong Zhang is accepted by Reliability Engineering & System Safety!
 - *Apr. 2025*: &nbsp;🎉🎉 I finish my first IELST test in Xiamen University Siming Campus!
 - *Mar. 2025*: &nbsp;🎉🎉 The paper about triply periodic
 minimal surface structure (TPMS) and bird strike is accepted by Aerospace science and technology!
@@ -37,8 +37,8 @@ minimal surface structure (TPMS) and bird strike is accepted by Aerospace scienc
 - *Oct. 2024*: &nbsp;🎉🎉 I complete the paper about TPMS structure and bird strike and submit to Aerospace science and technology!
 - *Aug. 2024*: &nbsp;🎉🎉 The paper about super-element condensation method from my friend Zhe Yang is accepted by Journal of Mechanical Strength (In Chinese)!
 - *Jun. 2024*: &nbsp;🎉🎉 The paper about model updating from my friend Jinhui Li is accepted by Mathematics!
-- *May 2024*: &nbsp;🎉🎉 My paper about multiple-bird-strike is accepted by Aerospace!
-- *Apr. 2024*: &nbsp;🎉🎉 I complete the paper about multiple-bird-strike and submit to Aerospace!
+- *May 2024*: &nbsp;🎉🎉 My paper about multiple bird strike is accepted by Aerospace!
+- *Apr. 2024*: &nbsp;🎉🎉 I complete the paper about multiple bird strike and submit to Aerospace!
 - *Oct. 2023*: &nbsp;🎉🎉 I join Aero Engine Academy of China as a research assistant for CAE software development.
 - *Sep. 2022*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (CAMDDA) and supervised by Prof. Baoqiang Zhang.
 - *Jun. 2022*: &nbsp;🎉🎉 I receive my bachelor's degree from Hunan University!
@@ -52,7 +52,6 @@ minimal surface structure (TPMS) and bird strike is accepted by Aerospace scienc
 
 Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo, Baoqiang Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a fatigue life prediction method for Boundary Layer Ingestion (BLI) fan blades under aleatory and epistemic uncertainties with random damage, combining Sparse Polynomial Chaos Expansion–Monte Carlo Simulation (SPCE–MCS), Finite Element Analysis (FEA), and Expectation-Maximization Gaussian Mixture Distribution (EM–GMD).
 </div>
 </div>
@@ -60,11 +59,10 @@ Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aerospace Science and Technology</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bird Strike Resistance Analysis for Engine Fan Blade Filled with Triply Periodic Minimal Surface](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Bird Strike Resistance Analysis for Engine Fan Blade Filled with Triply Periodic Minimal Surface](https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804)
 
 **Siqi Wang**, Chuangyu Jiang, Cunfu Wang, Baoqiang Zhang, Huageng Luo, Wujun Feng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose using TPMS structures as lightweight fillers in wide-chord hollow fan blades to enhance bird strike resistance. A multi-level framework—spanning material, element, and component levels—demonstrates the feasibility and effectiveness of this approach, highlighting its strong potential in aero-engine applications. 
 </div>
 </div>
@@ -72,11 +70,10 @@ Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mechanical Strength</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Research on Super-Element Condensation Method of Aero-Engine Magazine Structure Considering Connections for Dynamics Modeling](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Research on Super-Element Condensation Method of Aero-Engine Magazine Structure Considering Connections for Dynamics Modeling]
 
 Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **Siqi Wang**, Jinhui Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a superelement-based reduction method to efficiently analyze the dynamic behavior of aero-engine casings with complex connections. The reduced model significantly improves computational efficiency while maintaining high accuracy, as validated by simulation and experiments.
 </div>
 </div>
@@ -84,11 +81,10 @@ Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mathematics</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Improved Bayesian Model Updating Method for Frequency Response Function with Metrics Utilizing NHBFT-PCA](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Improved Bayesian Model Updating Method for Frequency Response Function with Metrics Utilizing NHBFT-PCA](https://www.mdpi.com/2227-7390/12/13/2076)
 
 Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wujun Feng, Baoqiang Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We develop an improved Bayesian model updating method for stochastic dynamic models using frequency response functions (FRFs). By introducing a novel NHBFT-PCA-based validation metric, our approach enhances both traditional and approximate Bayesian methods. Numerical and experimental results show improved accuracy and efficiency over conventional techniques.
 </div>
 </div>
@@ -96,25 +92,23 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aerospace</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multiple-Bird-Strike Probability Model and Dynamic Response of Engine Fan Blades](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Multiple-Bird-Strike Probability Model and Dynamic Response of Engine Fan Blades](https://www.mdpi.com/2226-4310/11/6/434)
 
 **Siqi Wang**, Jinhui Li, Haidong Lin, Zhenhong Deng, Baoqiang Zhang, Huageng Luo
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We investigate the effects of multiple bird strikes on engine fan blades by introducing a probabilistic impact model and using an implicit–explicit simulation method. 
 </div>
 </div>
 
 # 📝 Under Review
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Finite Elements in Analysis and Design</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Improved Finite Element Modeling Method for Triply Periodic Minimal Surface Structures Based on Element Size and Minimum Jacobian](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[An Improved Finite Element Modeling Method for Triply Periodic Minimal Surface Structures Based on Element Size and Minimum Jacobian](https://arxiv.org/abs/2506.04028)
 
 **Siqi Wang**, Chuangyu Jiang, Xiaodong Zhang, Yilong Zhang, Baoqiang Zhang, Huageng Luo
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a two-parameter voxel modeling method for TPMS structures, jointly controlling element size and minimum Jacobian. This approach improves mesh convergence, accuracy, and efficiency compared to traditional methods, and demonstrates strong applicability in graded TPMS analysis.
 </div>
 </div>
@@ -122,18 +116,19 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reliability Engineering & System Safety</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Prediction of Blade Vibration Response with Uncertainty Propagation Using Physics-Informed Neural Networks and Physics-Informed Gaussian Process Regression](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Prediction of Blade Vibration Response with Uncertainty Propagation Using Physics-Informed Neural Networks and Physics-Informed Gaussian Process Regression]
 
 Xiaodong Zhang, Daobo Sun, Dengyu Wu, **Siqi Wang**, Ting Liu, Huageng Luo, Baoqiang Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a vibration response prediction model for turbine engine blades by integrating Physics-Informed Neural Networks (PINN) with Physics-Informed Gaussian Process Regression (PIGPR). The model embeds frequency-domain physical properties into PINN and uses it as the mean function in Gaussian Process Regression (GPR), enabling both data-driven prediction and uncertainty analysis.
 </div>
 </div>
 
+# 📝 Reviewer
+- Thin-Walled Structures
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Apr. 2025* Wenzhong Cai 1st Scholarship (Rank 1)
 
 # 📖 Educations
 - *Sep. 2022 – Jun. 2025*, Master’s Degree in Aerospace Science and Technology, School of Aerospace Engineering, Xiamen University (XMU), Xiamen, China
