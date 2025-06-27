@@ -128,7 +128,7 @@ Xiaodong Zhang, Daobo Sun, Dengyu Wu, **Siqi Wang**, Ting Liu, Huageng Luo, Baoq
 - Thin-Walled Structures
 
 # 🎖 Honors and Awards
-- *Apr. 2025*， Wenzhong Cai 1st Scholarship (Rank 1)
+- *Apr. 2025*, Wenzhong Cai 1st Scholarship (Rank 1)
 
 # 📖 Educations
 - *Sep. 2022 – Jun. 2025*, Master’s Degree in Aerospace Science and Technology, School of Aerospace Engineering, Xiamen University (XMU), Xiamen, China
