@@ -32,7 +32,7 @@ minimal surface (TPMS) structure  modeling method</a>!
 - *Apr. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S095183202500393X" target="_blank">high-cycle fatigue life prediction</a> from my friend <a href="https://www.researchgate.net/profile/Xiaodong-Zhang-92" target="_blank">Xiaodong Zhang</a> is accepted by Reliability Engineering & System Safety!
 - *Apr. 2025*: &nbsp;🎉🎉 I finish my first IELST test in Xiamen University Siming Campus!
 - *Mar. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804" target="_blank">triply periodic
-minimal surface structure (TPMS) and bird strike</a> is accepted by Aerospace science and technology!
+minimal surface structure (TPMS) and bird strike</a> is accepted by Aerospace Science and Technology!
 - *Dec. 2024*: &nbsp;🎉🎉 I attended the The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces and have an oral presentation!
 - *Oct. 2024*: &nbsp;🎉🎉 I complete the paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804" target="_blank">triply periodic
 minimal surface (TPMS) structure and bird strike</a> and submit to Aerospace Science and Technology!
