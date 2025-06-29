@@ -35,7 +35,7 @@ minimal surface (TPMS) structure  modeling method</a>!
 minimal surface structure (TPMS) and bird strike</a> is accepted by Aerospace science and technology!
 - *Dec. 2024*: &nbsp;🎉🎉 I attended the The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces and have an oral presentation!
 - *Oct. 2024*: &nbsp;🎉🎉 I complete the paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804" target="_blank">triply periodic
-minimal surface (TPMS) structure and bird strike</a> and submit to Aerospace science and technology!
+minimal surface (TPMS) structure and bird strike</a> and submit to Aerospace Science and Technology!
 - *Aug. 2024*: &nbsp;🎉🎉 The paper about super-element condensation method from my friend <a href="https://www.researchgate.net/scientific-contributions/Zhe-Yang-2285984581" target="_blank">Zhe Yang</a> is accepted by Journal of Mechanical Strength (In Chinese)!
 - *Jun. 2024*: &nbsp;🎉🎉 The paper about model updating from my friend <a href="https://www.researchgate.net/scientific-contributions/Jinhui-Li-2245551287" target="_blank">Jinhui Li</a> is accepted by Mathematics!
 - *May 2024*: &nbsp;🎉🎉 My paper about <a href="https://www.mdpi.com/2226-4310/11/6/434" target="_blank">multiple bird strike</a> is accepted by Aerospace!
