@@ -22,7 +22,6 @@ My name is Siqi Wang, and welcome to my personal website. I am currently a Ph. D
 I am majoring in solid mechanics and have rich experience in numerical simulation and vibration testing. I am devoted to using mechanical metamaterials in aerospace structures to improve their impact resistance. I will pursue research at the intersection of artificial intelligence (AI) and solid mechanics in the future.
 
 # 🔥 News
-
 - *Jun. 2025*: &nbsp;🎉🎉 I receive my master's degree from School of Aerospace Engineering, Xiamen University!
 - *Jun. 2025*: &nbsp;🎉🎉 My friend <a href="https://www.researchgate.net/profile/Xiaodong-Zhang-92" target="_blank">Xiaodong Zhang</a> complete the paper about data-driven vibration response prediction for blades and submit it to Reliability Engineering & System Safety!
 - *May 2025*: &nbsp;🎉🎉 I complete my master's thesis defense and thank all the committee members for their valuable comments.
@@ -45,7 +44,6 @@ minimal surface (TPMS) structure and bird strike</a> and submit to Aerospace Sci
 - *Jun. 2022*: &nbsp;🎉🎉 I receive my bachelor's degree from Hunan University!
   
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reliability Engineering & System Safety</div><img src='images/ress.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -102,7 +100,6 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 </div>
 
 # 📝 Under Review
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Finite Elements in Analysis and Design</div><img src='images/voxel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
