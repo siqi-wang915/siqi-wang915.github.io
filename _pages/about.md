@@ -100,6 +100,7 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 </div>
 
 # 📝 Under Review
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Finite Elements in Analysis and Design</div><img src='images/voxel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -123,6 +124,7 @@ Xiaodong Zhang, Daobo Sun, Dengyu Wu, **Siqi Wang**, Ting Liu, Huageng Luo, Baoq
 </div>
 
 # 📝 Reviewer
+
 - Thin-Walled Structures
 
 # 🎖 Honors and Awards
