@@ -21,7 +21,7 @@ My name is Siqi Wang, and welcome to my personal website. I am currently a Ph. D
 
 I am majoring in solid mechanics and have rich experience in numerical simulation and vibration testing. I am devoted to using mechanical metamaterials in aerospace structures to improve their impact resistance. I will pursue research at the intersection of artificial intelligence (AI) and solid mechanics in the future.
 
-# 🔥 News
+<h2 id="news">🔥 News</h2>
 - *Jun. 2025*: &nbsp;🎉🎉 I receive my master's degree from School of Aerospace Engineering, Xiamen University!
 - *Jun. 2025*: &nbsp;🎉🎉 My friend <a href="https://www.researchgate.net/profile/Xiaodong-Zhang-92" target="_blank">Xiaodong Zhang</a> complete the paper about data-driven vibration response prediction for blades and submit it to Reliability Engineering & System Safety!
 - *May 2025*: &nbsp;🎉🎉 I complete my master's thesis defense and thank all the committee members for their valuable comments.
@@ -43,7 +43,7 @@ minimal surface (TPMS) structure and bird strike</a> and submit to Aerospace Sci
 - *Sep. 2022*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (<a href="https://www.researchgate.net/lab/CAMDDA-Huageng-Luo" target="_blank">CAMDDA</a>) and supervised by <a href="https://aerospace.xmu.edu.cn/info/2463/48873.htm" target="_blank">Prof. Baoqiang Zhang</a> and <a href="https://aerospace.xmu.edu.cn/info/1623/41443.htm" target="_blank">Prof. Huageng Luo</a>.
 - *Jun. 2022*: &nbsp;🎉🎉 I receive my bachelor's degree from Hunan University!
   
-# 📝 Publications 
+<h2 id="publications">📝 Publications</h2>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reliability Engineering & System Safety</div><img src='images/ress.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -127,16 +127,16 @@ Xiaodong Zhang, Daobo Sun, Dengyu Wu, **Siqi Wang**, Ting Liu, Huageng Luo, Baoq
 
 - Thin-Walled Structures
 
-# 🎖 Honors and Awards
+<h2 id="honors-and-awards">🎖 Honors and Awards</h2>
 - *Jun. 2025*, The Best Paper Award in CAMDDA
 - *Apr. 2025*, Wenzhong Cai 1st Scholarship (Rank 1)
 
-# 📖 Educations
+<h2 id="educations">📖 Educations</h2>
 - *Sep. 2022 – Jun. 2025*, Master’s Degree in Aerospace Science and Technology, School of Aerospace Engineering, Xiamen University (XMU), Xiamen, China
 - *Sep. 2018 – Jun. 2022*, Bachelor’s Degree in Mechanical Engineering, College of Mechanical and Vehicle Engineering, Hunan University (HNU), Changsha, China
 
 
-# 💬 Conference
+<h2 id="conference">💬 Conference</h2>
 - *Nov. 2024*, The 2nd National Symposium on Reliability Engineering and Science of Complex Equipment & the 11th National Workshop on Model Verification and Validation, Mianyang, China: only participate
 - *Apr. 2023*, The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces, Putian, China: “Equivalent modeling and impact resistance testing of IWP-filled structures” Oral Presentation
 - *Apr. 2023*, The 15th National Symposium on Structural Vibration and Dynamics & the 3rd National Workshop on Impact and Protective Engineering, Xiamen, China: only participate
