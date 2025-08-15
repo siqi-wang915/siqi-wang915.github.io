@@ -131,12 +131,12 @@ Xiaodong Zhang, Daobo Sun, Dengyu Wu, **Siqi Wang**, Ting Liu, Huageng Luo, Baoq
 - *Jun. 2025*, The Best Paper Award in CAMDDA
 - *Apr. 2025*, Wenzhong Cai 1st Scholarship (Rank 1)
 
-<h2 id="educations">📖 Educations</h2>
+# 📖 Educations
 - *Sep. 2022 – Jun. 2025*, Master’s Degree in Aerospace Science and Technology, School of Aerospace Engineering, Xiamen University (XMU), Xiamen, China
 - *Sep. 2018 – Jun. 2022*, Bachelor’s Degree in Mechanical Engineering, College of Mechanical and Vehicle Engineering, Hunan University (HNU), Changsha, China
 
 
-<h2 id="conference">💬 Conference</h2>
+# 💬 Conference
 - *Nov. 2024*, The 2nd National Symposium on Reliability Engineering and Science of Complex Equipment & the 11th National Workshop on Model Verification and Validation, Mianyang, China: only participate
 - *Apr. 2023*, The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces, Putian, China: “Equivalent modeling and impact resistance testing of IWP-filled structures” Oral Presentation
 - *Apr. 2023*, The 15th National Symposium on Structural Vibration and Dynamics & the 3rd National Workshop on Impact and Protective Engineering, Xiamen, China: only participate
