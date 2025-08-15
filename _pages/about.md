@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Siqi Wang, and welcome to my personal website. I am currently a Ph. D. applicant. My major is aerospace science and technology, with a focus on impact mechanics in the aerospace field and mechanical metamaterials. I earned a Bachelor of Engineering in Engineering Mechanics from Hunan University (2018–2022) and have since graduated with a Master's degree from the School of Aerospace Engineering at Xiamen University (2022–2025), supervised by <a href="https://aerospace.xmu.edu.cn/info/2463/48873.htm" target="_blank">Prof. Baoqiang Zhang</a> and <a href="https://aerospace.xmu.edu.cn/info/1623/41443.htm" target="_blank">Prof. Huageng Luo</a> at the Centre for Advanced Machine Design and Data Analytics (<a href="https://www.researchgate.net/lab/CAMDDA-Huageng-Luo" target="_blank">CAMDDA</a>). I also served as a research assistant at the Aero Engine Academy of China (2023–2024).
+My name is Siqi Wang, and welcome to my personal website. I am currently a Ph.D. applicant. My major is aerospace science and technology, with a focus on impact mechanics in the aerospace field and mechanical metamaterials. I earned a Bachelor of Engineering in Engineering Mechanics from Hunan University (2018–2022) and have since graduated with a Master's degree from the School of Aerospace Engineering at Xiamen University (2022–2025), supervised by <a href="https://aerospace.xmu.edu.cn/info/2463/48873.htm" target="_blank">Prof. Baoqiang Zhang</a> and <a href="https://aerospace.xmu.edu.cn/info/1623/41443.htm" target="_blank">Prof. Huageng Luo</a> at the Centre for Advanced Machine Design and Data Analytics (<a href="https://www.researchgate.net/lab/CAMDDA-Huageng-Luo" target="_blank">CAMDDA</a>). I also served as a research assistant at the Aero Engine Academy of China (2023–2024).
 
 I am majoring in solid mechanics and have rich experience in numerical simulation and vibration testing. I am devoted to using mechanical metamaterials in aerospace structures to improve their impact resistance. I will pursue research at the intersection of artificial intelligence (AI) and solid mechanics in the future.
 
-<h2 id="news">🔥 News</h2>
+# 🔥 News
 - *Jun. 2025*: &nbsp;🎉🎉 I receive my master's degree from School of Aerospace Engineering, Xiamen University!
 - *Jun. 2025*: &nbsp;🎉🎉 My friend <a href="https://www.researchgate.net/profile/Xiaodong-Zhang-92" target="_blank">Xiaodong Zhang</a> complete the paper about data-driven vibration response prediction for blades and submit it to Reliability Engineering & System Safety!
 - *May 2025*: &nbsp;🎉🎉 I complete my master's thesis defense and thank all the committee members for their valuable comments.
@@ -43,7 +43,7 @@ minimal surface (TPMS) structure and bird strike</a> and submit to Aerospace Sci
 - *Sep. 2022*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (<a href="https://www.researchgate.net/lab/CAMDDA-Huageng-Luo" target="_blank">CAMDDA</a>) and supervised by <a href="https://aerospace.xmu.edu.cn/info/2463/48873.htm" target="_blank">Prof. Baoqiang Zhang</a> and <a href="https://aerospace.xmu.edu.cn/info/1623/41443.htm" target="_blank">Prof. Huageng Luo</a>.
 - *Jun. 2022*: &nbsp;🎉🎉 I receive my bachelor's degree from Hunan University!
   
-<h2 id="publications">📝 Publications</h2>
+# 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reliability Engineering & System Safety</div><img src='images/ress.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
