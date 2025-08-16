@@ -127,7 +127,7 @@ Xiaodong Zhang, Daobo Sun, Dengyu Wu, **Siqi Wang**, Ting Liu, Huageng Luo, Baoq
 
 - Thin-Walled Structures
 
-<h2 id="honors-and-awards">🎖 Honors and Awards</h2>
+# 🎖 Honors and Awards
 - *Jun. 2025*, The Best Paper Award in CAMDDA
 - *Apr. 2025*, Wenzhong Cai 1st Scholarship (Rank 1)
 
