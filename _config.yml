@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siqi Wang"
-description              : "Ph.D. applicant, focusing on impact mechanics, mechanical metamaterials, additive manufacturing, and meshless methods. "
+description              : "First year Ph.D. student, focusing on AI for solid mechanics, impact mechanics and mechanical metamaterials. "
 repository               : "wsqqqqqqq/Siqi-Wang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siqi Wang"
   avatar           : "images/myself.png"
-  bio              : "Xiamen University"
-  location         : "Xiamen, China"
+  bio              : "Fudan University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ga7jZLMAAAAJ&hl=en&oi=sra"
