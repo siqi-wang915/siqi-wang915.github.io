@@ -102,7 +102,7 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 
 # 📝 Under Review
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Finite Elements in Analysis and Design</div><img src='images/voxel.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/voxel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Improved Finite Element Modeling Method for Triply Periodic Minimal Surface Structures Based on Element Size and Minimum Jacobian](https://arxiv.org/abs/2506.04028)
@@ -113,7 +113,7 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reliability Engineering & System Safety</div><img src='images/ress2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ress2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prediction of Blade Vibration Response with Uncertainty Propagation Using Physics-Informed Neural Networks and Physics-Informed Gaussian Process Regression]
@@ -121,6 +121,17 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 Xiaodong Zhang, Daobo Sun, Dengyu Wu, **Siqi Wang**, Ting Liu, Huageng Luo, Baoqiang Zhang
 
 - We propose a vibration response prediction model for turbine engine blades by integrating Physics-Informed Neural Networks (PINN) with Physics-Informed Gaussian Process Regression (PIGPR). The model embeds frequency-domain physical properties into PINN and uses it as the mean function in Gaussian Process Regression (GPR), enabling both data-driven prediction and uncertainty analysis.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Improved Finite Element Modeling Method for Triply Periodic Minimal Surface Structures Based on Element Size and Minimum Jacobian]
+
+Yilong Zhang, Gengkai Hu, Chenxu Wang, **Siqi Wang**, Cunfu Wang
+
+- We propose an interface-aware topology optimization framework based on density penalization, which explicitly models multi-material interfaces and controls their thickness, significantly enhancing the reliability and applicability of optimized structures.
 </div>
 </div>
 
