@@ -133,6 +133,7 @@ Xiaodong Zhang, Daobo Sun, Dengyu Wu, **Siqi Wang**, Ting Liu, Huageng Luo, Baoq
 - *Apr. 2025*, Wenzhong Cai 1st Scholarship (Rank 1)
 
 # 📖 Educations
+- *Sep. 2025 – present*, Ph.D in the College of Intelligent Robotics and Advanced Manufacturing (CIRAM), Fudan University (FDU), Shanghai, China
 - *Sep. 2022 – Jun. 2025*, Master’s Degree in Aerospace Science and Technology, School of Aerospace Engineering, Xiamen University (XMU), Xiamen, China
 - *Sep. 2018 – Jun. 2022*, Bachelor’s Degree in Mechanical Engineering, College of Mechanical and Vehicle Engineering, Hunan University (HNU), Changsha, China
 
