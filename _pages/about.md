@@ -127,7 +127,7 @@ Xiaodong Zhang, Daobo Sun, Dengyu Wu, **Siqi Wang**, Ting Liu, Huageng Luo, Baoq
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Improved Finite Element Modeling Method for Triply Periodic Minimal Surface Structures Based on Element Size and Minimum Jacobian]
+[Interface-Aware Topology Optimization for Multi-Material Structures via Density Penalization]
 
 Yilong Zhang, Gengkai Hu, Chenxu Wang, **Siqi Wang**, Cunfu Wang
 
