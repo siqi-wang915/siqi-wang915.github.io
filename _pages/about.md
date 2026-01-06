@@ -22,15 +22,15 @@ Welcome to my academic homepage. My name is Siqi Wang, and I am a self-motivated
 I specialize in solid mechanics and have extensive experience in numerical simulation and vibration testing. My current research focuses on the intersection of AI and solid mechanics.
 
 # 🔥 News
+- *Nov. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.tandfonline.com/doi/full/10.1080/15397734.2025.2605536?mi=j0k0ox" target="_blank">triply periodic
+minimal surface (TPMS) structure  modeling method</a> is accepted by Mechanics Based Design of Structures and Machines!
 - *Sep. 2025*: &nbsp;🎉🎉 I go to Fudan University and join <a href="https://scholar.google.com/citations?hl=en&user=3CBuGosAAAAJ" target="_blank">Prof. Timon Rabczuk</a>'s group!
 - *Jun. 2025*: &nbsp;🎉🎉 I receive my master's degree from School of Aerospace Engineering, Xiamen University!
-- *Jun. 2025*: &nbsp;🎉🎉 My friend <a href="https://www.researchgate.net/profile/Xiaodong-Zhang-92" target="_blank">Xiaodong Zhang</a> complete the paper about data-driven vibration response prediction for blades and submit it to Reliability Engineering & System Safety!
 - *May 2025*: &nbsp;🎉🎉 I complete my master's thesis defense and thank all the committee members for their valuable comments.
 - *May 2025*: &nbsp;🎉🎉 I complete the paper about <a href="https://arxiv.org/abs/2506.04028" target="_blank">triply periodic
 minimal surface (TPMS) structure  modeling method</a>!
 - *Apr. 2025*: &nbsp;🎉🎉 I receive the review reports for my master's thesis, and all the reviewers give me scores above 90!
 - *Apr. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S095183202500393X" target="_blank">high-cycle fatigue life prediction</a> from my friend <a href="https://www.researchgate.net/profile/Xiaodong-Zhang-92" target="_blank">Xiaodong Zhang</a> is accepted by Reliability Engineering & System Safety!
-- *Apr. 2025*: &nbsp;🎉🎉 I finish my first IELST test in Xiamen University Siming Campus!
 - *Mar. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804" target="_blank">triply periodic
 minimal surface structure (TPMS) and bird strike</a> is accepted by Aerospace Science and Technology!
 - *Dec. 2024*: &nbsp;🎉🎉 I attended the The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces and have an oral presentation!
@@ -67,25 +67,14 @@ Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mechanical Strength</div><img src='images/yangzhe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Research on Super-Element Condensation Method of Aero-Engine Magazine Structure Considering Connections for Dynamics Modeling]
-
-Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **Siqi Wang**, Jinhui Li
-
-- We propose a superelement-based reduction method to efficiently analyze the dynamic behavior of aero-engine casings with complex connections. The reduced model significantly improves computational efficiency while maintaining high accuracy, as validated by simulation and experiments.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mathematics</div><img src='images/mathematics.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanics Based Design of Structures and Machines</div><img src='images/voxel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Improved Bayesian Model Updating Method for Frequency Response Function with Metrics Utilizing NHBFT-PCA](https://www.mdpi.com/2227-7390/12/13/2076)
+[An Improved Finite Element Modeling Method for Triply Periodic Minimal Surface Structures Based on Element Size and Minimum Jacobian](https://www.tandfonline.com/doi/full/10.1080/15397734.2025.2605536?mi=j0k0ox)
 
-Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wujun Feng, Baoqiang Zhang
+**Siqi Wang**, Chuangyu Jiang, Yilong Zhang, Xiaodong Zhang, Baoqiang Zhang, Huageng Luo
 
-- We develop an improved Bayesian model updating method for stochastic dynamic models using frequency response functions (FRFs). By introducing a novel NHBFT-PCA-based validation metric, our approach enhances both traditional and approximate Bayesian methods. Numerical and experimental results show improved accuracy and efficiency over conventional techniques.
+- We propose a two-parameter voxel modeling method for TPMS structures, jointly controlling element size and minimum Jacobian. This approach improves mesh convergence, accuracy, and efficiency compared to traditional methods, and demonstrates strong applicability in graded TPMS analysis.
 </div>
 </div>
 
@@ -100,27 +89,38 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mathematics</div><img src='images/mathematics.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improved Bayesian Model Updating Method for Frequency Response Function with Metrics Utilizing NHBFT-PCA](https://www.mdpi.com/2227-7390/12/13/2076)
+
+Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wujun Feng, Baoqiang Zhang
+
+- We develop an improved Bayesian model updating method for stochastic dynamic models using frequency response functions (FRFs). By introducing a novel NHBFT-PCA-based validation metric, our approach enhances both traditional and approximate Bayesian methods. Numerical and experimental results show improved accuracy and efficiency over conventional techniques.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mechanical Strength</div><img src='images/yangzhe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Research on Super-Element Condensation Method of Aero-Engine Magazine Structure Considering Connections for Dynamics Modeling]
+
+Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **Siqi Wang**, Jinhui Li
+
+- We propose a superelement-based reduction method to efficiently analyze the dynamic behavior of aero-engine casings with complex connections. The reduced model significantly improves computational efficiency while maintaining high accuracy, as validated by simulation and experiments.
+</div>
+</div>
+
 # 📝 Under Review
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/voxel.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/SMO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Improved Finite Element Modeling Method for Triply Periodic Minimal Surface Structures Based on Element Size and Minimum Jacobian](https://arxiv.org/abs/2506.04028)
+[A Scalable Topology Optimization Framework with Neural-Implicit Representation and Adjoint-Driven Gradients]
 
-**Siqi Wang**, Chuangyu Jiang, Xiaodong Zhang, Yilong Zhang, Baoqiang Zhang, Huageng Luo
+Yilong Zhang, Chenxu Wang, **Siqi Wang**, Cunfu Wang, Gengkai Hu
 
-- We propose a two-parameter voxel modeling method for TPMS structures, jointly controlling element size and minimum Jacobian. This approach improves mesh convergence, accuracy, and efficiency compared to traditional methods, and demonstrates strong applicability in graded TPMS analysis.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ress2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Prediction of Blade Vibration Response with Uncertainty Propagation Using Physics-Informed Neural Networks and Physics-Informed Gaussian Process Regression]
-
-Xiaodong Zhang, Daobo Sun, Dengyu Wu, **Siqi Wang**, Ting Liu, Huageng Luo, Baoqiang Zhang
-
-- We propose a vibration response prediction model for turbine engine blades by integrating Physics-Informed Neural Networks (PINN) with Physics-Informed Gaussian Process Regression (PIGPR). The model embeds frequency-domain physical properties into PINN and uses it as the mean function in Gaussian Process Regression (GPR), enabling both data-driven prediction and uncertainty analysis.
+- We propose NIAD-TO, a scalable topology optimization framework that couples neural-implicit density representations with discrete adjoint-driven gradients by integrating PyTorch and FEniCS/dolfin-adjoint in an end-to-end manner, enabling resolution-independent modeling and efficient sensitivity evaluation across multimaterial, multiscale, multiphysics, and nonlinear scenarios with improved accuracy and efficiency.
 </div>
 </div>
 
