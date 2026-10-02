@@ -22,8 +22,10 @@ Welcome to my academic homepage. My name is Siqi Wang, and I am a self-motivated
 I specialize in solid mechanics and have extensive experience in numerical simulation and vibration testing. My current research focuses on the intersection of AI and solid mechanics. I am always open to academic discussions and potential research collaborations. If you are interested in my research or would like to explore possible collaborations, please feel free to contact me via email (sqwang25@m.fudan.edu.cn) or WeChat (ws11009922).
 
 # 🔥 News
-- *Jul. 2026*: &nbsp;🎉🎉 I go to the University of Hong Kong as a visiting student！
-- *Jul. 2026*: &nbsp;🎉🎉 The paper about multi-material topology optimization from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Structural and Multidisciplinary Optimization!
+- *Aug. 2026*: &nbsp;🎉🎉 The paper about <a href="https://link.springer.com/article/10.1007/s00158-026-04395-7" target="_blank">interface-aware topology optimization framework</a> from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Structural and Multidisciplinary Optimization!
+- *Oct. 2024*: &nbsp;🎉🎉 I complete the paper about <a href="https://arxiv.org/abs/2606.16624" target="_blank">neural operator for Mindlin–Reissner plates</a> and submit to Computer Methods in Applied Mechanics and Engineering!
+- *Jul. 2026*: &nbsp;🎉🎉 I go to the University of Hong Kong as a guest reseacher！
+- *Jul. 2026*: &nbsp;🎉🎉 The paper about multi-material topology optimization from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Journal of Mechanical Design!
 - *Jun. 2026*: &nbsp;🎉🎉 The paper about scalable topology optimization from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Journal of Mechanical Design!
 - *Jun. 2026*: &nbsp;🎉🎉 I complete the paper about <a href="https://arxiv.org/abs/2606.16624" target="_blank">predicting Mindlin–Reissner plate responses using neural operators</a>!
 - *Nov. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.tandfonline.com/doi/full/10.1080/15397734.2025.2605536?mi=j0k0ox" target="_blank">triply periodic
@@ -38,8 +40,7 @@ minimal surface (TPMS) structure  modeling method</a>!
 - *Mar. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804" target="_blank">triply periodic
 minimal surface structure (TPMS) and bird strike</a> is accepted by Aerospace Science and Technology!
 - *Dec. 2024*: &nbsp;🎉🎉 I attended the The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces and have an oral presentation!
-- *Oct. 2024*: &nbsp;🎉🎉 I complete the paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804" target="_blank">triply periodic
-minimal surface (TPMS) structure and bird strike</a> and submit to Aerospace Science and Technology!
+- *Oct. 2024*: &nbsp;🎉🎉 I complete the paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804" target="_blank">triply periodic minimal surface (TPMS) structure and bird strike</a> and submit to Aerospace Science and Technology!
 - *Aug. 2024*: &nbsp;🎉🎉 The paper about <a href="https://kns.cnki.net/kcms2/article/abstract?v=wGRGwcz8A0d_aYq1cLQqphgGQXqHWOyVTk3NFKu_NiXLAD4D5fK5TzL95yi3IY-LNJQdXyAg9upBIyEoFiKp5WiZMHde1gTCqa0gPBNC9Y14c0stVP4Z94J172xYhwKxLUorRe6btI-2OWo54sKmjsZMrOIM2q2o4eOxZUKvg1DJR6pGq9T6MQ==&uniplatform=NZKPT&language=CHS" target="_blank">super-element condensation method</a> from my friend <a href="https://www.researchgate.net/scientific-contributions/Zhe-Yang-2285984581" target="_blank">Zhe Yang</a> is accepted by Journal of Mechanical Strength!
 - *Jun. 2024*: &nbsp;🎉🎉 The paper about <a href="https://www.mdpi.com/2227-7390/12/13/2076" target="_blank">model updating</a> from my friend <a href="https://www.researchgate.net/scientific-contributions/Jinhui-Li-2245551287" target="_blank">Jinhui Li</a> is accepted by Mathematics!
 - *May 2024*: &nbsp;🎉🎉 My paper about <a href="https://www.mdpi.com/2226-4310/11/6/434" target="_blank">multiple bird strike</a> is accepted by Aerospace!
@@ -97,7 +98,19 @@ Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mechanical Design</div><img src='images/SMO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Scalable Topology Optimization Framework with Neural-Implicit Representation and Adjoint-Driven Gradients](https://link.springer.com/article/10.1007/s00158-026-04395-7)
+
+[Interface-Aware Topology Optimization for Multi-Material Structures via Density Penalization](https://link.springer.com/article/10.1007/s00158-026-04395-7)
+
+Yilong Zhang, Gengkai Hu, Chenxu Wang, **Siqi Wang**, Cunfu Wang
+
+- We propose an interface-aware topology optimization framework based on density penalization, which explicitly models multi-material interfaces and controls their thickness, significantly enhancing the reliability and applicability of optimized structures.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mathematics</div><img src='images/mathematics.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Scalable Topology Optimization Framework with Neural-Implicit Representation and Adjoint-Driven Gradients]
 
 
 Yilong Zhang, Chenxu Wang, **Siqi Wang**, Cunfu Wang, Gengkai Hu
@@ -107,17 +120,6 @@ Yilong Zhang, Chenxu Wang, **Siqi Wang**, Cunfu Wang, Gengkai Hu
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Structural and Multidisciplinary Optimization</div><img src='images/ES.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Interface-Aware Topology Optimization for Multi-Material Structures via Density Penalization]
-
-Yilong Zhang, Gengkai Hu, Chenxu Wang, **Siqi Wang**, Cunfu Wang
-
-- We propose an interface-aware topology optimization framework based on density penalization, which explicitly models multi-material interfaces and controls their thickness, significantly enhancing the reliability and applicability of optimized structures.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mathematics</div><img src='images/mathematics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improved Bayesian Model Updating Method for Frequency Response Function with Metrics Utilizing NHBFT-PCA](https://www.mdpi.com/2227-7390/12/13/2076)
