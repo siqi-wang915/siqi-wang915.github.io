@@ -23,7 +23,7 @@ I specialize in solid mechanics and have extensive experience in numerical simul
 
 # 🔥 News
 - *Aug. 2026*: &nbsp;🎉🎉 The paper about <a href="https://link.springer.com/article/10.1007/s00158-026-04395-7" target="_blank">interface-aware topology optimization framework</a> from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Structural and Multidisciplinary Optimization!
-- *Oct. 2024*: &nbsp;🎉🎉 I complete the paper about <a href="https://arxiv.org/abs/2606.16624" target="_blank">neural operator for Mindlin–Reissner plates</a> and submit to Computer Methods in Applied Mechanics and Engineering!
+- *Oct. 2026*: &nbsp;🎉🎉 I complete the paper about <a href="https://arxiv.org/abs/2606.16624" target="_blank">neural operator for Mindlin–Reissner plates</a> and submit to Computer Methods in Applied Mechanics and Engineering!
 - *Jul. 2026*: &nbsp;🎉🎉 I go to the University of Hong Kong as a guest reseacher！
 - *Jul. 2026*: &nbsp;🎉🎉 The paper about multi-material topology optimization from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Journal of Mechanical Design!
 - *Jun. 2026*: &nbsp;🎉🎉 The paper about scalable topology optimization from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Journal of Mechanical Design!
