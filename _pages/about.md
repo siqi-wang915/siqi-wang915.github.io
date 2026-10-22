@@ -157,13 +157,14 @@ Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **S
 
 
 # 📝 Reviewer
-
 - Journal: Thin-Walled Structures
 - Conference: Pacific Graphics 2026
 
 # 🎖 Honors and Awards
+- *Jun. 2025*, Selected for the 2026 China Association for Science and Technology Young Science and Technology Talent Cultivation Program for Doctoral Students. (入选中国科协青年人才培育工程博士生专项计划）
+- *Oct. 2026*, Provincial Outstanding Postgraduate Theses. (省级优秀研究生学位论文）
 - *Jun. 2025*, The Best Paper Award in <a href="https://www.researchgate.net/lab/CAMDDA-Huageng-Luo" target="_blank">CAMDDA</a>
-- *Apr. 2025*, Wenzhong Cai 1st Scholarship (Rank 1)
+- *Apr. 2025*, Wenzhong Cai 1st Scholarship, Xiamen university (Rank 1). （厦门大学蔡文种一等奖学金,排名第一）
 
 # 📖 Educations
 - *Sep. 2025 – present*, Ph.D in the College of Intelligent Robotics and Advanced Manufacturing (CIRAM), Fudan University (FDU), Shanghai, China
@@ -172,8 +173,9 @@ Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **S
 
 
 # 💬 Conference
-- *Nov. 2024*, The 2nd National Symposium on Reliability Engineering and Science of Complex Equipment & the 11th National Workshop on Model Verification and Validation, Mianyang, China: only participate
+- *Oct. 2026*, The 6th International Conference on Data-Driven Computing and Machine Learning in Engineering (DACOMA-26), Shanghai, China: Conference organization
+- *Nov. 2024*, The 2nd National Symposium on Reliability Engineering and Science of Complex Equipment & the 11th National Workshop on Model Verification and Validation, Mianyang, China: Only participate
 - *Apr. 2023*, The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces, Putian, China: “Equivalent modeling and impact resistance testing of IWP-filled structures” Oral Presentation
-- *Apr. 2023*, The 15th National Symposium on Structural Vibration and Dynamics & the 3rd National Workshop on Impact and Protective Engineering, Xiamen, China: only participate
-- *Nov. 2022*, The 18th China CAE Annual Conference (CCAC 2022), Xiamen, China: only participate
+- *Apr. 2023*, The 15th National Symposium on Structural Vibration and Dynamics & the 3rd National Workshop on Impact and Protective Engineering, Xiamen, China: Conference organization
+- *Nov. 2022*, The 18th China CAE Annual Conference (CCAC 2022), Xiamen, China: Only participate
 
