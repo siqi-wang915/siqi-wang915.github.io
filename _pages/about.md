@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic homepage. My name is Siqi Wang, and I am a self-motivated researcher currently pursuing a Ph.D. at the College of Intelligent Robotics and Advanced Manufacturing (CIRAM), Fudan University (2025–present), under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=3CBuGosAAAAJ" target="_blank">Prof. Timon Rabczuk</a>. My research focuses on the application of artificial intelligence (AI) to solid mechanics. I obtained my B.Eng. in Engineering Mechanics from Hunan University (2018–2022) and my M.Eng. in Aerospace Science and Technology from Xiamen University (2022–2025), where my work centered on impact dynamics and mechanical metamaterials for aerospace applications, supervised by <a href="https://aerospace.xmu.edu.cn/info/2463/48873.htm" target="_blank">Prof. Baoqiang Zhang</a> and <a href="https://aerospace.xmu.edu.cn/info/1623/41443.htm" target="_blank">Prof. Huageng Luo</a> at the Centre for Advanced Machine Design and Data Analytics (<a href="https://www.researchgate.net/lab/CAMDDA-Huageng-Luo" target="_blank">CAMDDA</a>). In addition, I served as an Assistant Researcher at the Aero Engine Academy of China from 2023 to 2024 and was a Visiting Student at The University of Hong Kong in 2026.
+Welcome to my academic homepage. My name is Siqi Wang, and I am a self-motivated researcher currently pursuing a Ph.D. at the College of Intelligent Robotics and Advanced Manufacturing (CIRAM), Fudan University (2025–present), under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=3CBuGosAAAAJ" target="_blank">Prof. Timon Rabczuk</a>. My research focuses on the application of artificial intelligence (AI) to solid mechanics. I obtained my B.Eng. in Engineering Mechanics from Hunan University (2018–2022) and my M.Eng. in Aerospace Science and Technology from Xiamen University (2022–2025), where my work centered on impact dynamics and mechanical metamaterials for aerospace applications, supervised by <a href="https://aerospace.xmu.edu.cn/info/2463/48873.htm" target="_blank">Prof. Baoqiang Zhang</a> and <a href="https://aerospace.xmu.edu.cn/info/1623/41443.htm" target="_blank">Prof. Huageng Luo</a> at the Centre for Advanced Machine Design and Data Analytics (<a href="https://www.researchgate.net/lab/CAMDDA-Huageng-Luo" target="_blank">CAMDDA</a>). In addition, I served as an Assistant Researcher at the Aero Engine Academy of China from 2023 to 2024 and was a Guest Reseacher at The University of Hong Kong in 2026.
 
-I specialize in solid mechanics and have extensive experience in numerical simulation and vibration testing. My current research focuses on the intersection of AI and solid mechanics. I am always open to academic discussions and potential research collaborations. If you are interested in my research or would like to explore possible collaborations, please feel free to contact me via email (sqwang25@m.fudan.edu.cn) or WeChat (ws11009922).
+My research focuses on AI for Partial Differential Equations (AI4PDE) and its applications in computational solid mechanics, with particular interests in physics-informed neural networks (PINNs), deep energy methods, and physics-informed neural operators (PINOs). I am always open to academic discussions and potential research collaborations. If you are interested in my research or would like to explore possible collaborations, please feel free to contact me via email (sqwang25@m.fudan.edu.cn).
 
 # 🔥 News
+- *Nov. 2026*: &nbsp;🎉🎉 The paper about <a href="https://arxiv.org/abs/2606.16624" target="_blank">neural operator for Mindlin–Reissner plates</a> is accepted by Computer Methods in Applied Mechanics and Engineering!
 - *Aug. 2026*: &nbsp;🎉🎉 The paper about <a href="https://link.springer.com/article/10.1007/s00158-026-04395-7" target="_blank">interface-aware topology optimization framework</a> from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Structural and Multidisciplinary Optimization!
 - *Oct. 2026*: &nbsp;🎉🎉 I complete the paper about <a href="https://arxiv.org/abs/2606.16624" target="_blank">neural operator for Mindlin–Reissner plates</a> and submit to Computer Methods in Applied Mechanics and Engineering!
 - *Jul. 2026*: &nbsp;🎉🎉 I go to the University of Hong Kong as a guest reseacher！
@@ -50,6 +51,17 @@ minimal surface structure (TPMS) and bird strike</a> is accepted by Aerospace Sc
 - *Jun. 2022*: &nbsp;🎉🎉 I receive my bachelor's degree from Hunan University!
   
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Methods in Applied Mechanics and Engineering</div><img src='images/MR-GVNO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GA-VINO: A Geometry-Aware Variational Physics-informed Neural Operator for Mindlin-Reissner Plates](https://arxiv.org/abs/2606.16624)
+
+**Siqi Wang**, Daobo Sun, Yizheng Wang, Yilong Zhang, Yabin Jin, Xiaoying Zhuang, Timon Rabczuk
+
+- We propose GA-VINO, a geometry-aware varitional physics-informed neural operator that enables label-free and efficient response prediction for Mindlin–Reissner plates with irregular geometries, heterogeneous materials, and varying loads.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aerospace Science and Technology</div><img src='images/ast.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -143,16 +155,7 @@ Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **S
 
 # 📝 Under Review
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MR-GVNO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[GA-VINO: A Geometry-Aware Variational Physics-informed Neural Operator for Mindlin-Reissner Plates](https://arxiv.org/abs/2606.16624)
-
-**Siqi Wang**, Daobo Sun, Yizheng Wang, Yilong Zhang, Yabin Jin, Xiaoying Zhuang, Timon Rabczuk
-
-- We propose MR-GVNO, a geometry-aware physics-informed neural operator that enables label-free and efficient response prediction for Mindlin–Reissner plates with irregular geometries, heterogeneous materials, and varying loads.
-</div>
-</div>
 
 
 
@@ -161,7 +164,8 @@ Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **S
 - Conference: Pacific Graphics 2026
 
 # 🎖 Honors and Awards
-- *Jun. 2025*, Selected for the 2026 China Association for Science and Technology Young Science and Technology Talent Cultivation Program for Doctoral Students. (入选中国科协青年人才培育工程博士生专项计划）
+- *Nov. 2026*, Outstanding Academic Presentation Award, Shanghai Mechanics Graduate Student Academic Festival & the 12th Graduate Academic Conference in Mechanics at Shanghai University.
+- *Jun. 2025*, Selected for the 2026 China Association for Science and Technology Young Science and Technology Talent Cultivation Program for Doctoral Students. (中国科协青年人才培育工程博士生专项计划）
 - *Oct. 2026*, Provincial Outstanding Postgraduate Theses. (省级优秀研究生学位论文）
 - *Jun. 2025*, The Best Paper Award in <a href="https://www.researchgate.net/lab/CAMDDA-Huageng-Luo" target="_blank">CAMDDA</a>
 - *Apr. 2025*, Wenzhong Cai 1st Scholarship, Xiamen university (Rank 1). （厦门大学蔡文种一等奖学金,排名第一）
@@ -173,6 +177,7 @@ Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **S
 
 
 # 💬 Conference
+- *Nov. 2026*, Shanghai Mechanics Graduate Student Academic Festival & the 12th Graduate Academic Conference in Mechanics at Shanghai University, Shanghai, China: “GA-VINO: A Geometry-Aware Variational Physics-Informed Neural Operator for Mindlin–Reissner Plates” Session Chair and Oral Presentation.
 - *Oct. 2026*, The 6th International Conference on Data-Driven Computing and Machine Learning in Engineering (DACOMA-26), Shanghai, China: Conference organization
 - *Nov. 2024*, The 2nd National Symposium on Reliability Engineering and Science of Complex Equipment & the 11th National Workshop on Model Verification and Validation, Mianyang, China: Only participate
 - *Apr. 2023*, The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces, Putian, China: “Equivalent modeling and impact resistance testing of IWP-filled structures” Oral Presentation
